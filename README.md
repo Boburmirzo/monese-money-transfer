@@ -21,7 +21,6 @@ Similar old projects can be found in my gitHub repositories with Spring Boot imp
 * Apache Maven as build tool.
 * JUnit as a test framework
 * Mockito for mocking.
-* JaCoCo for code coverage library.
 
 ### Requirements: ###
 Things you need to have installed to run the test project. 

@@ -2,18 +2,18 @@
 
 Test task for Monese Software Engineer :
 
-● Sending money between two predefined accounts with a positive starting balance
-● Requesting account balance and list of transactions
+- Sending money between two predefined accounts with a positive starting balance
+- Requesting account balance and list of transactions
 
 ### Tech stack used behind this test project :
 Note: Tried not to use Spring framework:
 
 Similar old projects can be found in my gitHub repositories with Spring Boot implementation, in memory and with ui:
 
-https://github.com/Boburmirzo/transferMoney
-https://github.com/Boburmirzo/banktransactionsemulation
-https://github.com/Boburmirzo/localbankemulation
-https://github.com/Boburmirzo/banktransactionsemulationwithGUI
+- https://github.com/Boburmirzo/transferMoney
+- https://github.com/Boburmirzo/banktransactionsemulation
+- https://github.com/Boburmirzo/localbankemulation
+- https://github.com/Boburmirzo/banktransactionsemulationwithGUI
 
 * Dropwizard as web service framework.
 * Apache Hibernate for ORM.
